@@ -1,6 +1,6 @@
 # 🛣️ Johnson's Algorithm: All-Pairs Shortest Path
 
-This project is a console-based C++ implementation of Johnson's Algorithm. It calculates the shortest paths between every pair of vertices in a weighted directed graph — including graphs that have negative edge weights — as long as no negative-weight cycles exist.
+This project is a console-based C++ implementation of Johnson's Algorithm. It calculates the shortest paths between every pair of vertices in a weighted directed graph including graphs that have negative edge weights as long as no negative-weight cycles exist.
 
 ---
 
@@ -202,4 +202,4 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ## ✉️ Contact
 
-For any questions or concerns, feel free to reach out by email at imam220826@gmail.com
+For any questions or concerns, feel free to reach out by email at abdullahasan220618@gmail.com
