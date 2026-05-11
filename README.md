@@ -6,7 +6,7 @@ This project is a console-based C++ implementation of Johnson's Algorithm. It ca
 
 ## 📑 Table of Contents
 
-| # | Section |
+|  | Section |
 |---|---------|
 | 1 | [What This Program Can Do](#-what-this-program-can-do) |
 | 2️ | [How The Algorithm Works](#-how-the-algorithm-works) |
