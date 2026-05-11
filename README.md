@@ -8,18 +8,18 @@ This project is a console-based C++ implementation of Johnson's Algorithm. It ca
 
 | # | Section |
 |---|---------|
-| 1️⃣ | [What This Program Can Do](#-what-this-program-can-do) |
-| 2️⃣ | [How The Algorithm Works](#-how-the-algorithm-works) |
-| 3️⃣ | [Algorithm Flowchart](#-algorithm-flowchart) |
-| 4️⃣ | [How To Run The Project](#-how-to-run-the-project) |
-| 5️⃣ | [Input Format](#-input-format) |
-| 6️⃣ | [Sample Output](#-sample-output) |
-| 7️⃣ | [Time Complexity](#-time-complexity) |
-| 8️⃣ | [Important Notes](#-important-notes) |
-| 9️⃣ | [Requirements](#-requirements) |
-| 🔟 | [Contributing](#-contributing) |
-| 🔢 | [License](#-license) |
-| 🔢 | [Contact](#-contact) |
+| 1 | [What This Program Can Do](#-what-this-program-can-do) |
+| 2️ | [How The Algorithm Works](#-how-the-algorithm-works) |
+| 3️ | [Algorithm Flowchart](#-algorithm-flowchart) |
+| 4️ | [How To Run The Project](#-how-to-run-the-project) |
+| 5️ | [Input Format](#-input-format) |
+| 6️ | [Sample Output](#-sample-output) |
+| 7️ | [Time Complexity](#-time-complexity) |
+| 8️ | [Important Notes](#-important-notes) |
+| 9️ | [Requirements](#-requirements) |
+| 10 | [Contributing](#-contributing) |
+| 11 | [License](#-license) |
+| 12 | [Contact](#-contact) |
 
 ---
 
